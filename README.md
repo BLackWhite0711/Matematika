@@ -1,13 +1,12 @@
-# Matematika
 # Tahap Pengembangan
 
-# Membantu Pelajaran Matematika
+- Membantu Pelajaran Matematika
 
 * Mencari Rata-Rata
 * Mencari Median
 * Mencari Modus
 
-*Cara Install*
+- Cara Install 
 
 $ bash install.sh
 
@@ -15,7 +14,7 @@ $ pip2 install -r requirements.txt
 
 $ pip install -r requirements.txt
 
-*Cara Menjalankannya*
+- Cara Menjalankannya -
 
 $ python3 Rata-Rata.py
 
