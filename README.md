@@ -11,18 +11,20 @@
 * Mencari Pembagian
 * Mencari Perkalian
 
-- Cara Install 
+#cara install 
 
-$ bash install.sh
+* $ apt-get install python3 
 
-$ pip2 install -r requirements.txt
+* $ apt-get install git
 
-$ pip install -r requirements.txt
+* $ git clone https://github.com/BLackWhite0711/Matematika
 
-- Cara Menjalankannya -
+* $ cd Matematika
 
-$ python3 Rata-Rata.py
+* $ bash Install.sh
 
-$ python3 Modus.py
+* $ pip2 install -r requirements.txt
 
-$ python3 Median.py
+* $ pip install -r requiements.txt
+
+* $ python3 (file).py
