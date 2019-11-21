@@ -11,7 +11,7 @@
 * Mencari Pembagian
 * Mencari Perkalian
 
-#cara install 
+# cara install 
 
 * $ apt-get install python3 
 
