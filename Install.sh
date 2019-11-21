@@ -64,6 +64,6 @@ chmod +x *
 
 clear
 sleep 2
-echo -e $red "[!]$purple Ketik Perintah $red [python3 main.py] $purple untuk Menjalankan Tool Ini"
+echo -e $red "[!]$purple Ketik Perintah $red [python3 (FILE).py] $purple untuk Menjalankan Tool Ini"
 sleep 5
 echo ""
