@@ -5,6 +5,11 @@
 * Mencari Rata-Rata
 * Mencari Median
 * Mencari Modus
+* Mencari Quartil
+* Mencari Pertambahan
+* Mencari Penjumlahan
+* Mencari Pembagian
+* Mencari Perkalian
 
 - Cara Install 
 
